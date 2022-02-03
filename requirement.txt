@@ -1,0 +1,12 @@
+Flask
+gunicorn
+pandas
+numpy
+pickle4
+sklearn
+scipy
+imutils
+dlib
+cv2
+pygame
+time
